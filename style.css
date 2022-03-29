@@ -1,0 +1,17 @@
+/*selector {
+  property: value;
+}*/
+h3 {
+  color: green;
+}
+#red {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  border: dashed black;
+}
+.blue {
+  width: 100px;
+  height: 100px;
+  background: pink;
+}
